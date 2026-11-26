@@ -1,0 +1,8 @@
+schema: 1
+routes:
+  planning:
+    read: [../backlog.md]
+  contributor_workflow:
+    read: [../../CONTRIBUTING.md]
+  security:
+    read: [../../SECURITY.md]
