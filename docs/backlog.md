@@ -13,5 +13,6 @@ Start with discovery and a small interoperable foundation. Keep the reference im
 | NET-302 | Qualify authenticated direct links and relay fallback under equivalent authorization rules. |
 | NET-303 | Define logical target resolution, failover and stable bindings for running work. |
 | NET-501 | Specify cross-broker trust after proving the single-broker path. |
+| [PNP #23](https://github.com/Dockpipe-Industries/pnp/issues/23) | Measure and cap peak and retained build disk usage for the runtime, SDKs, and conformance profiles. Add DockPipe CI reporting and a dry-run cleanup workflow. Coordinate shared tooling with [PipeLang #73](https://github.com/Dockpipe-Industries/pipelang/issues/73). |
 
 Dockpipe's reference application and PipeLang port, ForgePipe adoption, and Cloud hosting integration belong in their respective repositories. The package store can distribute PNP applications while network access is subject to separate PNP authorization.
